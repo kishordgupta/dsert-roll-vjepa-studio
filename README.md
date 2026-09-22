@@ -12,7 +12,7 @@ Supported effects: fog, rain, snow, night and warm light, including combinations
 
 Tested on Ubuntu 24.04 under WSL, Python 3.11, PyTorch 2.5.1 with CUDA 12.1, and one Quadro RTX 5000 GPU with 16 GB VRAM. The current model code requires CUDA. GPU indices are selectable; multiple GPUs are not combined.
 
-1. Clone this private repository with your own authorized GitHub access.
+1. Clone the public repository: `git clone https://github.com/kishordgupta/dsert-roll-vjepa-studio.git`, then `cd dsert-roll-vjepa-studio`. No GitHub sign-in is required to clone it.
 2. Install Python 3.11 with venv support, Git and FFmpeg. On Ubuntu: `sudo apt-get install ffmpeg`.
 3. Run `bash scripts/setup.sh`. This creates `.venv311`, installs dependencies, checks out the pinned V-JEPA source, applies the official-checkpoint URL patch, and downloads selected dataset subsets and the checkpoint. Allow several GB of disk and network traffic.
 4. Run `CUDA_VISIBLE_DEVICES=0 bash prompt-studio/start.sh` (use `1` for the previously tested GPU on the remote workstation).
