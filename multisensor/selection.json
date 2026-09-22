@@ -1,0 +1,11 @@
+{
+  "revision": "a8e1162b1cc5c95e50ff2020d206af965758ddef",
+  "sequences": {
+    "Fog": "Fog/2025_04_16_06_09_59",
+    "Heavy_Snow": "Heavy_Snow/2025_02_12_05_29_33",
+    "Heavy_Rain": "Heavy_Rain/2025_07_16_15_40_24",
+    "Light_Rain": "Light_Rain/2025_07_16_20_56_54",
+    "Light_Snow": "Light_Snow/2025_02_12_04_40_15",
+    "Clear": "Clear/2025_04_14_03_02_53"
+  }
+}

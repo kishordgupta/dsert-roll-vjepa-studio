@@ -1,0 +1,197 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 323,
+    "sha256": "4db783b4f9a91c24c2ab06ac746441111f1a2a6e9d3d03be4865865447245e11"
+  },
+  {
+    "path": "README.md",
+    "bytes": 6332,
+    "sha256": "98422ed1b3b103012bf5c827a6c90d5474d1754338d91327fd6f43202ae54530"
+  },
+  {
+    "path": "docs/demo/comparison.mp4",
+    "bytes": 2016339,
+    "sha256": "5c4dc741692407bcfb50bb46880da46742cdeba2849515dfac9c7c2081707e4f"
+  },
+  {
+    "path": "docs/demo/metrics.json",
+    "bytes": 31563,
+    "sha256": "f6b5c69bbaf5babaf5f379aafb77685961bd0e96fc526592de00776d027c6051"
+  },
+  {
+    "path": "docs/demo/staged-tests.txt",
+    "bytes": 301,
+    "sha256": "84829dea0976b88bcb8dc1b6d7d8a1892675fcc9861077179a1837a9bfa56588"
+  },
+  {
+    "path": "docs/demo/staged-ui-check.txt",
+    "bytes": 1759,
+    "sha256": "6f0901f1707c4d8ab8bf6283ed0083c60ce13c206e736ca48cd913f82ca15357"
+  },
+  {
+    "path": "docs/demo/synthetic_sensors.mp4",
+    "bytes": 12643723,
+    "sha256": "9231eb9d1deb5fdbb61d73aaa741bf7abbc7580f6d6749338bdb336081d3c189"
+  },
+  {
+    "path": "docs/demo/validation.json",
+    "bytes": 719,
+    "sha256": "b0d41406fe9ec548b865569c5613a71b7f245feed3803f5954c3035e1a7ffb9f"
+  },
+  {
+    "path": "docs/demo/video.mp4",
+    "bytes": 1338957,
+    "sha256": "249507b4cda5f79c0d5c231d08b4b641b4334610bed9978d5818f016eb879afc"
+  },
+  {
+    "path": "multisensor/choose_daylight.py",
+    "bytes": 842,
+    "sha256": "171476f1fe9bed250dcdc4b21363a6d7ceaf1976002e5c3c14ce925c18482e64"
+  },
+  {
+    "path": "multisensor/common.py",
+    "bytes": 723,
+    "sha256": "51a7b185e543b50e244d6586c7adc4797a7e55ee406fa305ca026076bab613eb"
+  },
+  {
+    "path": "multisensor/download.py",
+    "bytes": 1885,
+    "sha256": "539e9c40695e5e7091ff953a25c8b11a3279d97d8c5863352222dbbd4a657b7d"
+  },
+  {
+    "path": "multisensor/download_synthetic.py",
+    "bytes": 1905,
+    "sha256": "ebfb7496c7b336444be832636bd16e335443379e5d73dab9e99bce28da7cb9b3"
+  },
+  {
+    "path": "multisensor/evaluate.py",
+    "bytes": 3943,
+    "sha256": "b48e215903667ef5a1e7bb53b5cd13591dbe18cfb97b36bc0903e932d360b8fc"
+  },
+  {
+    "path": "multisensor/inventory.py",
+    "bytes": 1019,
+    "sha256": "04e2b0b95eba24f2c4c03cc80f392e25adeaaf3e2e78d5f6e454180ac18197c1"
+  },
+  {
+    "path": "multisensor/make_report.py",
+    "bytes": 2451,
+    "sha256": "497c4d39cbed2fb434b2085b7c23a45149bd238c8c359ff16aec980b686f8d7b"
+  },
+  {
+    "path": "multisensor/official-revision.txt",
+    "bytes": 41,
+    "sha256": "6d8cce8173909bdb95e4249b408f7bcee68e9ea0c879dd6e26837785744691c7"
+  },
+  {
+    "path": "multisensor/render.py",
+    "bytes": 7953,
+    "sha256": "fd3f07bfd40849725872ee593794c0a4d6e812f880be256d247dedc419f9bf1a"
+  },
+  {
+    "path": "multisensor/selection.json",
+    "bytes": 369,
+    "sha256": "f599cfd95af3e39b5b37d166ada92db47a54693dcaa52212f1d2f569e0c69a02"
+  },
+  {
+    "path": "multisensor/synthetic-selection.json",
+    "bytes": 123,
+    "sha256": "e7919a14d270e56ef835c2789fb5f53b7f2247547788fd9cfb2373901de489c4"
+  },
+  {
+    "path": "multisensor/verify.py",
+    "bytes": 1375,
+    "sha256": "3397ffbab115b2c316e390c2f233d2ea2d3d6eaa00ba1ba334dda786a783e20c"
+  },
+  {
+    "path": "patches/vjepa-official-url.patch",
+    "bytes": 384,
+    "sha256": "6efbf7d0f4695fe61918b51c824ccaae66c02787d5b39174a6b846b4bb8f65dd"
+  },
+  {
+    "path": "prompt-studio/catalog.py",
+    "bytes": 2920,
+    "sha256": "0d9bc75c1b283d44396ca696a02e622b9371152a19e53668c12f54cfe5d0c272"
+  },
+  {
+    "path": "prompt-studio/create_shortcut.py",
+    "bytes": 689,
+    "sha256": "1035bac531c784e2391d69b85691a980e067d042cd7a213ea467c30dd5c8555e"
+  },
+  {
+    "path": "prompt-studio/engine.py",
+    "bytes": 5662,
+    "sha256": "9f94f046ebfd1e24e99fea9cc3a8f49fd5b67ee70ea935f4d5d3a7d3cba663c1"
+  },
+  {
+    "path": "prompt-studio/multisensor_pipeline.py",
+    "bytes": 5503,
+    "sha256": "a0f01611f1395eb5f33b4dfd53334201878b40d510503fbfe1e60a6b7c9dbcee"
+  },
+  {
+    "path": "prompt-studio/requirements.lock.txt",
+    "bytes": 79,
+    "sha256": "0040eecba54ac89b597c55ce49ec99ac63458f82dc75ce1b030d7f754b045f27"
+  },
+  {
+    "path": "prompt-studio/sensor_synthesis.py",
+    "bytes": 10307,
+    "sha256": "3105e4dd6b8b70a620d0e98c336db091cc421543be8ae45cb5774517e096acc8"
+  },
+  {
+    "path": "prompt-studio/server.py",
+    "bytes": 6245,
+    "sha256": "d2da0368957ba1ac5f6e76573d22db476b751461511393727c3f5e2c4a9d532e"
+  },
+  {
+    "path": "prompt-studio/start.py",
+    "bytes": 1053,
+    "sha256": "cd7b406417035853f4fe5e9d24961c373e6584bb648aa694a85a52140857bc72"
+  },
+  {
+    "path": "prompt-studio/start.sh",
+    "bytes": 117,
+    "sha256": "621527029ed24a834da26a6b281f268aabf57fcfbf482374a42b6ac870c08e1d"
+  },
+  {
+    "path": "prompt-studio/static/app.js",
+    "bytes": 7839,
+    "sha256": "1b1e131115dd721df8428dd2092868df2a320907d84f203b71c9cdd6188926ce"
+  },
+  {
+    "path": "prompt-studio/static/index.html",
+    "bytes": 5210,
+    "sha256": "470a0e4fd7e9f251504659b1a8b20399ed972697cfc58bcb9363cbe95113462e"
+  },
+  {
+    "path": "prompt-studio/static/style.css",
+    "bytes": 5525,
+    "sha256": "e3ceed54ea3be646e327abb4f054a788ade7176a3e0751dda9ed178ff3bbfc88"
+  },
+  {
+    "path": "prompt-studio/test_sensor_models.py",
+    "bytes": 1463,
+    "sha256": "be6832e43ec3de80164594492fd573a324958ac3d2667c6d42b6d7b501c6e24e"
+  },
+  {
+    "path": "prompt-studio/verify_sensor_app.py",
+    "bytes": 2221,
+    "sha256": "cd16e4597545e316532cceb9c04d5264fbb9af2749044f46e2d98590a65fa772"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 245,
+    "sha256": "ede4c0b4b8873f2eb57507073791f555f0caa043aec3366bd78edb59459d31d4"
+  },
+  {
+    "path": "scripts/prepare_data.py",
+    "bytes": 834,
+    "sha256": "4947febf59a1e2ce445f00a1baa8e881eb22a6b04c82b8a73a0681535bea42b0"
+  },
+  {
+    "path": "scripts/setup.sh",
+    "bytes": 1206,
+    "sha256": "3bda5eabd9d3c897222b98d30540aabeea7792388028dd924c68b775750174b5"
+  }
+]

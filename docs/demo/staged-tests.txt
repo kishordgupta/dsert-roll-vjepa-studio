@@ -1,0 +1,5 @@
+livox 45483 40428 deterministic + identity PASS
+ouster 42073 41224 deterministic + identity PASS
+radar 1127 1086 deterministic + identity PASS
+event {'retained': 1008954, 'added': 27447, 'source_time_min': 752050, 'source_time_max': 852209, 'changed': True} PASS
+thermal deterministic + identity PASS

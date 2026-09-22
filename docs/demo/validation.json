@@ -1,0 +1,32 @@
+{
+  "valid": true,
+  "primary_sensor_files": 432,
+  "files_per_stream": {
+    "rgb_left": 48,
+    "rgb_right": 48,
+    "event_left": 48,
+    "event_right": 48,
+    "thermal_left": 48,
+    "thermal_right": 48,
+    "livox": 48,
+    "ouster": 48,
+    "radar": 48
+  },
+  "changed_frames": {
+    "rgb_left": 48,
+    "rgb_right": 48,
+    "event_left": 48,
+    "event_right": 48,
+    "thermal_left": 48,
+    "thermal_right": 48,
+    "livox": 48,
+    "ouster": 48,
+    "radar": 48
+  },
+  "event_count": 88286126,
+  "point_count": 3828874,
+  "source_hashes_unchanged": true,
+  "archive_crc_valid": true,
+  "archive_sha256": "f6f6dc3ea13944f439292740eee96add73c9c09f3f674cd5ef8f6a889eb6d201",
+  "all_nine_streams_encoded": true
+}

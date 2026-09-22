@@ -1,0 +1,59 @@
+JOB 37b94eace113468f92c76afe01a2f661 complete Video ready
+UI JS new + legacy job behavior PASS
+DOWNLOAD sensor_data.zip 206 application/zip bytes 0-1023/585507981
+DOWNLOAD synthetic_sensors.mp4 206 video/mp4 bytes 0-1023/12643723
+DOWNLOAD video.mp4 206 video/mp4 bytes 0-1023/1338957
+DOWNLOAD embeddings.npz 206 application/octet-stream bytes 0-1023/51964
+RESULT {
+  "sensor_version": "sensor-augmentation-1.0",
+  "frames": 48,
+  "duration_s": 4.806220342468085,
+  "fps": 9.987057725146053,
+  "depth_support": 0.8704534143518519,
+  "rgb_distance": 0.01118934154510498,
+  "fused_distance": 0.0035184621810913086,
+  "family_distances": {
+    "RGB": 0.01118934154510498,
+    "Event": 0.002711653709411621,
+    "Thermal": 0.000706791877746582,
+    "LiDAR": 0.007560908794403076,
+    "Radar": 0.009682655334472656
+  },
+  "sensor_files": 432,
+  "sensor_archive": "sensor_data.zip",
+  "archive_bytes": 585507981,
+  "archive_sha256": "f6f6dc3ea13944f439292740eee96add73c9c09f3f674cd5ef8f6a889eb6d201",
+  "seconds": 150.24487086498993
+}
+VALIDATION {
+  "valid": true,
+  "primary_sensor_files": 432,
+  "files_per_stream": {
+    "rgb_left": 48,
+    "rgb_right": 48,
+    "event_left": 48,
+    "event_right": 48,
+    "thermal_left": 48,
+    "thermal_right": 48,
+    "livox": 48,
+    "ouster": 48,
+    "radar": 48
+  },
+  "changed_frames": {
+    "rgb_left": 48,
+    "rgb_right": 48,
+    "event_left": 48,
+    "event_right": 48,
+    "thermal_left": 48,
+    "thermal_right": 48,
+    "livox": 48,
+    "ouster": 48,
+    "radar": 48
+  },
+  "event_count": 88286126,
+  "point_count": 3828874,
+  "source_hashes_unchanged": true,
+  "archive_crc_valid": true,
+  "archive_sha256": "f6f6dc3ea13944f439292740eee96add73c9c09f3f674cd5ef8f6a889eb6d201",
+  "all_nine_streams_encoded": true
+}

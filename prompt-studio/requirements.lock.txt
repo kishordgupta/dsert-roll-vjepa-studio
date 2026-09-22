@@ -1,0 +1,2 @@
+# Runtime dependencies are managed by scripts/setup.sh.
+-r ../requirements.txt

@@ -1,0 +1,26 @@
+.venv*/
+vjepa2/
+cache/
+__pycache__/
+*.pyc
+*.log
+*.pid
+.env
+.env.*
+*.pem
+*.key
+id_*
+.ssh/
+multisensor/data/
+multisensor/official/
+multisensor/outputs/
+multisensor/*manifest.json
+prompt-studio/jobs/
+prompt-studio/backups/
+.DS_Store
+
+# Also exclude local validation symlinks.
+.venv*
+vjepa2
+multisensor/data
+prompt-studio/jobs
